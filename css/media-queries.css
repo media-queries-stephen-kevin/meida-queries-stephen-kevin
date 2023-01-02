@@ -32,7 +32,8 @@ h1{
 }
 .header-img {
     padding: 0;
-    margin: 0;
+    display: grid;
+    place-items: center;
 }
 
 div.header-img>img {
@@ -41,6 +42,7 @@ div.header-img>img {
     height: 224px;
     width: 337px;
 }
+
 #main {
     padding: 0.5em 0;
 }
