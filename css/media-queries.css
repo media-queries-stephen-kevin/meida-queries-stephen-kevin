@@ -20,13 +20,18 @@ h1{
 }
 .nav-links li {
     background-color: #c4c4c4;
-    padding: 1em 2em;
+    margin: .5em 0;
+    padding: 1em 0;
 }
 .nav-links {
     list-style: none;
     text-align: center;
-    padding: .5em;
+    padding: 0;
     margin: 0;
+}
+.header-img {
+    max-width: 100%;
+    height: auto;
 }
 
 @media screen and (min-width:934px) {
