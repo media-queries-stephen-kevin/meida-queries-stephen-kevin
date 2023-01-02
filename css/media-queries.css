@@ -58,10 +58,8 @@ div.header-img>img {
     font-size: 125%;
     padding-bottom: .25em;
 }
-
 footer p {
-    position: absolute;
-    bottom: 0;
+    padding-top: 7em;
 }
 
 
@@ -134,5 +132,8 @@ footer p {
 
     .main p {
         padding-right: 2em;
+    }
+    footer p {
+        padding-top: 27em;
     }
 }
